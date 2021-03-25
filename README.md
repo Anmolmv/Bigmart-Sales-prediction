@@ -1,6 +1,6 @@
 # BigMart Sales Prediction Analysis - Regression
 
-**Complete Video Tutorial:** https://youtu.be/CD58mco2XqA
+Author: AnmolG
 
 # Dataset Information
 
